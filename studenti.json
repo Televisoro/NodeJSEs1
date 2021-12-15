@@ -1,12 +1,6 @@
 [
-    {
-        "surname":"Agostinelli",
-        "name":"Luca",
-        "id":1
-    },
-    {
-        "surname":"Pippo",
-        "name":"Mammt",
-        "id":69
-    }
+    {"surname":"Agostinelli","name":"Luca","id":1},
+    {"surname":"Alampi","name":"Adrian","id":2},
+    {"surname":"Galimberti","name":"Tommaso","id":3},
+    {"surname":"Amati","name":"Mattia","id":4}
 ]
